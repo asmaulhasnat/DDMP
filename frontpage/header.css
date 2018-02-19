@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+.logo{
+	color:white;
+}
+
+.menu{
+	font-size:18px;
+	text-transform:uppercase;
+	color:white !important;
+	margin-top:5px;
+}
+.menu li{
+	padding:5px ;
+}
+.navbar-inverse .navbar-nav li a{
+	color:yellow !important;}
+.menu li a:hover{
+	background-color:white;
+	border-bottom:2px solid yellow;
+	color:black;
+}
+.serch{
+	margin-top:15px;
+}
+

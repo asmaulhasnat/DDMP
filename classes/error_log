@@ -1,0 +1,4 @@
+[21-Jun-2017 04:07:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/webepjfl/public_html/bikkato/classes/catagorycrud.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/webepjfl/public_html/bikkato/classes/catagorycrud.php on line 44
